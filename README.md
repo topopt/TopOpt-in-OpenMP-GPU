@@ -4,7 +4,7 @@ This repository contains an implementation of a topology  optimisation solver fo
 ## Linear MBB Beam Example
 The result after 20 design iterations can be seen in the folloowing figure.
 <p align="center">
-  <img src="../figures/result.png" width="600," title="Result from 25 iterations">
+  <img src="figures/result.png" width="600," title="Result from 25 iterations">
 </p>
 
 ## Compilation
