@@ -1,0 +1,8 @@
+*.o
+*.json
+*.vtu
+*.txt
+
+benchmark
+test_stencil_methods
+top3d
