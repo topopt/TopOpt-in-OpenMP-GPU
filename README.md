@@ -58,4 +58,4 @@ The following table includes a list of all the available options.
 | -w         | Write result to `.vtu` file by setting `-w 1`.                                               | 0                 |
 
 ## Authorship
-This code has been developed by Erik Albert Träff in collaboration with Anton Rydahl under the supervision of Niels Aage, Ole Signmund, and Sven Karlsson.
+This code has been developed by Erik Albert Träff and Anton Rydahl under the supervision of Niels Aage, Ole Signmund, and Sven Karlsson.
