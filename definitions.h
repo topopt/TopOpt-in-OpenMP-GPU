@@ -14,8 +14,9 @@
 #define MIN(a, b) ((a) > (b) ? (b) : (a))
 
 // define stencil sizes at compile time
-#define STENCIL_SIZE_Y 8
-// The code will not work if STENCIL_SIZE_X and STENCIL_SIZE_Z are not equal to one!
+#define STENCIL_SIZE_Y 128
+// The code will not work if STENCIL_SIZE_X and STENCIL_SIZE_Z are not equal to
+// one!
 #define STENCIL_SIZE_X 1
 #define STENCIL_SIZE_Z 1
 
