@@ -1,7 +1,7 @@
 # GPU Accelerated Topology Optimisation Based on OpenMP Target Offloading
 This repository contains an implementation of a topology  optimisation solver for linear  elastic compliance minimisation in three dimensions. The implementation is based on OpenMP target offloading to one GPU.
 
-## Linear MBB Beam Example
+## Linear Cantilever Design Problem Example
 The result after 20 design iterations can be seen in the folloowing figure.
 <p align="center">
   <img src="figures/result.png" width="600," title="Result from 25 iterations">
