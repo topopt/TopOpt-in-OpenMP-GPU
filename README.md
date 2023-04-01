@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7791820.svg)](https://doi.org/10.5281/zenodo.7791820)
 # GPU Accelerated Topology Optimisation Based on OpenMP Target Offloading
 This repository contains an implementation of a topology  optimisation solver for linear  elastic compliance minimisation in three dimensions. The implementation is based on OpenMP target offloading to one GPU.
 
